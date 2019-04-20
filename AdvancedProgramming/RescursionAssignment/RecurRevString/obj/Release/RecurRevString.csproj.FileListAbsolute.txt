@@ -1,0 +1,6 @@
+/Users/lilyayala/Source/Class-Assignments/AdvancedProgramming/RescursionAssignment/RecurRevString/bin/Release/RecurRevString.exe.config
+/Users/lilyayala/Source/Class-Assignments/AdvancedProgramming/RescursionAssignment/RecurRevString/bin/Release/RecurRevString.exe
+/Users/lilyayala/Source/Class-Assignments/AdvancedProgramming/RescursionAssignment/RecurRevString/bin/Release/RecurRevString.pdb
+/Users/lilyayala/Source/Class-Assignments/AdvancedProgramming/RescursionAssignment/RecurRevString/obj/Release/RecurRevString.csproj.CoreCompileInputs.cache
+/Users/lilyayala/Source/Class-Assignments/AdvancedProgramming/RescursionAssignment/RecurRevString/obj/Release/RecurRevString.exe
+/Users/lilyayala/Source/Class-Assignments/AdvancedProgramming/RescursionAssignment/RecurRevString/obj/Release/RecurRevString.pdb
