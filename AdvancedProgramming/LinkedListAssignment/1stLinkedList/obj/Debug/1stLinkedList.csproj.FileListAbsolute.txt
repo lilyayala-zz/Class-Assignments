@@ -1,0 +1,49 @@
+c:\users\kurt.friedrich\documents\visual studio 2013\Projects\1stLinkedListSol\1stLinkedList\bin\Debug\1stLinkedList.exe.config
+c:\users\kurt.friedrich\documents\visual studio 2013\Projects\1stLinkedListSol\1stLinkedList\obj\Debug\1stLinkedList.csprojResolveAssemblyReference.cache
+c:\users\kurt.friedrich\documents\visual studio 2013\Projects\1stLinkedListSol\1stLinkedList\bin\Debug\1stLinkedList.exe
+c:\users\kurt.friedrich\documents\visual studio 2013\Projects\1stLinkedListSol\1stLinkedList\bin\Debug\1stLinkedList.pdb
+c:\users\kurt.friedrich\documents\visual studio 2013\Projects\1stLinkedListSol\1stLinkedList\obj\Debug\1stLinkedList.exe
+c:\users\kurt.friedrich\documents\visual studio 2013\Projects\1stLinkedListSol\1stLinkedList\obj\Debug\1stLinkedList.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\BBB-Prog260-Algo-DataStruct\Module 4 - Linked Lists\1stLinkedListSol\1stLinkedList\bin\Debug\1stLinkedList.exe.config
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\BBB-Prog260-Algo-DataStruct\Module 4 - Linked Lists\1stLinkedListSol\1stLinkedList\obj\Debug\1stLinkedList.exe
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\BBB-Prog260-Algo-DataStruct\Module 4 - Linked Lists\1stLinkedListSol\1stLinkedList\obj\Debug\1stLinkedList.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\BBB-Prog260-Algo-DataStruct\Module 4 - Linked Lists\1stLinkedListSol\1stLinkedList\bin\Debug\1stLinkedList.exe
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\BBB-Prog260-Algo-DataStruct\Module 4 - Linked Lists\1stLinkedListSol\1stLinkedList\bin\Debug\1stLinkedList.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\BBB-Prog260-Algo-DataStruct\Module 4 - Linked Lists\1stLinkedListSol\1stLinkedList\obj\Debug\1stLinkedList.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\BBB-Prog260-Algo-DataStruct\Topic  4 - Linked Lists\1stLinkedListSol\1stLinkedList\bin\Debug\1stLinkedList.exe.config
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\BBB-Prog260-Algo-DataStruct\Topic  4 - Linked Lists\1stLinkedListSol\1stLinkedList\obj\Debug\1stLinkedList.exe
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\BBB-Prog260-Algo-DataStruct\Topic  4 - Linked Lists\1stLinkedListSol\1stLinkedList\obj\Debug\1stLinkedList.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\BBB-Prog260-Algo-DataStruct\Topic  4 - Linked Lists\1stLinkedListSol\1stLinkedList\bin\Debug\1stLinkedList.exe
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\BBB-Prog260-Algo-DataStruct\Topic  4 - Linked Lists\1stLinkedListSol\1stLinkedList\bin\Debug\1stLinkedList.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\BBB-Prog260-Algo-DataStruct\Topic  4 - Linked Lists\1stLinkedListSol\1stLinkedList\obj\Debug\1stLinkedList.csprojResolveAssemblyReference.cache
+C:\Users\kurt\Google Drive\BellevueCollege\BBB-Prog260-Algo-DataStruct\Topic  4 - Linked Lists\1stLinkedListSol\1stLinkedList\bin\Debug\1stLinkedList.exe.config
+C:\Users\kurt\Google Drive\BellevueCollege\BBB-Prog260-Algo-DataStruct\Topic  4 - Linked Lists\1stLinkedListSol\1stLinkedList\obj\Debug\1stLinkedList.exe
+C:\Users\kurt\Google Drive\BellevueCollege\BBB-Prog260-Algo-DataStruct\Topic  4 - Linked Lists\1stLinkedListSol\1stLinkedList\obj\Debug\1stLinkedList.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A1AA-Prog260-Algo-DataStruct - Fall2015\Topic  4 - Linked Lists\1stLinkedListSol\1stLinkedList\bin\Debug\1stLinkedList.exe.config
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A1AA-Prog260-Algo-DataStruct - Fall2015\Topic  4 - Linked Lists\1stLinkedListSol\1stLinkedList\obj\Debug\1stLinkedList.exe
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A1AA-Prog260-Algo-DataStruct - Fall2015\Topic  4 - Linked Lists\1stLinkedListSol\1stLinkedList\obj\Debug\1stLinkedList.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A1AA-Prog260-Algo-DataStruct - Fall2015\Topic  4 - Linked Lists\1stLinkedList-Pointers\1stLinkedList\bin\Debug\1stLinkedList.exe.config
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A1AA-Prog260-Algo-DataStruct - Fall2015\Topic  4 - Linked Lists\1stLinkedList-Pointers\1stLinkedList\obj\Debug\1stLinkedList.exe
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A1AA-Prog260-Algo-DataStruct - Fall2015\Topic  4 - Linked Lists\1stLinkedList-Pointers\1stLinkedList\obj\Debug\1stLinkedList.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A1AA-Prog260-Algo-DataStruct - Fall2015\Topic  4 - Linked Lists\1stLinkedList-Pointers\1stLinkedList\bin\Debug\1stLinkedList.exe
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A1AA-Prog260-Algo-DataStruct - Fall2015\Topic  4 - Linked Lists\1stLinkedList-Pointers\1stLinkedList\bin\Debug\1stLinkedList.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A1AA-Prog260-Algo-DataStruct - Fall2015\Topic  4 - Linked Lists\1stLinkedList-Pointers\1stLinkedList\obj\Debug\1stLinkedList.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A1AA-Prog260-Algo-DataStruct - Fall2015\Topic  4 - Linked Lists\Part 1\1stLinkedList-Pointers\1stLinkedList\bin\Debug\1stLinkedList.exe.config
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A1AA-Prog260-Algo-DataStruct - Fall2015\Topic  4 - Linked Lists\Part 1\1stLinkedList-Pointers\1stLinkedList\obj\Debug\1stLinkedList.exe
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A1AA-Prog260-Algo-DataStruct - Fall2015\Topic  4 - Linked Lists\Part 1\1stLinkedList-Pointers\1stLinkedList\obj\Debug\1stLinkedList.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\A1AA-Prog260-Algo-DataStruct - Fall2015\Topic  4 - Linked Lists\Part 1\1stLinkedList-Pointers\1stLinkedList\bin\Debug\1stLinkedList.exe.config
+C:\Users\kurt\Google Drive\BellevueCollege\A1AA-Prog260-Algo-DataStruct - Fall2015\Topic  4 - Linked Lists\Part 1\1stLinkedList-Pointers\1stLinkedList\obj\Debug\1stLinkedList.exe
+C:\Users\kurt\Google Drive\BellevueCollege\A1AA-Prog260-Algo-DataStruct - Fall2015\Topic  4 - Linked Lists\Part 1\1stLinkedList-Pointers\1stLinkedList\obj\Debug\1stLinkedList.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\A1AA-Prog260-Algo-DataStruct - Fall2015\Topic  4 - Linked Lists\Part 1\1stLinkedList-Pointers\1stLinkedList\bin\Debug\1stLinkedList.exe
+C:\Users\kurt\Google Drive\BellevueCollege\A1AA-Prog260-Algo-DataStruct - Fall2015\Topic  4 - Linked Lists\Part 1\1stLinkedList-Pointers\1stLinkedList\bin\Debug\1stLinkedList.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\A1AA-Prog260-Algo-DataStruct - Fall2015\Topic  4 - Linked Lists\Part 1\1stLinkedList-Pointers\1stLinkedList\obj\Debug\1stLinkedList.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog260\Topic  4 - Linked Lists\Part 1\1stLinkedList-ExtremePointers\1stLinkedList\bin\Debug\1stLinkedList.exe.config
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog260\Topic  4 - Linked Lists\Part 1\1stLinkedList-ExtremePointers\1stLinkedList\obj\Debug\1stLinkedList.exe
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog260\Topic  4 - Linked Lists\Part 1\1stLinkedList-ExtremePointers\1stLinkedList\obj\Debug\1stLinkedList.pdb
+C:\Users\lily.ayala\Downloads\1B-1stLinkedList-ExtremePointers\1B-1stLinkedList-ExtremePointers\1stLinkedList\obj\Debug\1stLinkedList.csprojResolveAssemblyReference.cache
+C:\Users\lily.ayala\Downloads\1B-1stLinkedList-ExtremePointers\1B-1stLinkedList-ExtremePointers\1stLinkedList\obj\Debug\1stLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\lily.ayala\Downloads\1B-1stLinkedList-ExtremePointers\1B-1stLinkedList-ExtremePointers\1stLinkedList\obj\Debug\1stLinkedList.exe
+C:\Users\lily.ayala\Downloads\1B-1stLinkedList-ExtremePointers\1B-1stLinkedList-ExtremePointers\1stLinkedList\obj\Debug\1stLinkedList.pdb
+C:\Users\lily.ayala\Downloads\1B-1stLinkedList-ExtremePointers\1B-1stLinkedList-ExtremePointers\1stLinkedList\bin\Debug\1stLinkedList.exe.config
+C:\Users\lily.ayala\Downloads\1B-1stLinkedList-ExtremePointers\1B-1stLinkedList-ExtremePointers\1stLinkedList\bin\Debug\1stLinkedList.exe
+C:\Users\lily.ayala\Downloads\1B-1stLinkedList-ExtremePointers\1B-1stLinkedList-ExtremePointers\1stLinkedList\bin\Debug\1stLinkedList.pdb

@@ -1,0 +1,7 @@
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\BBB-Prog260-Algo-DataStruct\Topic  4 - Linked Lists\1stLinkedListSol\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\BBB-Prog260-Algo-DataStruct\Topic  4 - Linked Lists\1stLinkedListSol\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\BBB-Prog260-Algo-DataStruct\Topic  4 - Linked Lists\1stLinkedListSol\UnitTestProject1\bin\Debug\1stLinkedList.exe
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\BBB-Prog260-Algo-DataStruct\Topic  4 - Linked Lists\1stLinkedListSol\UnitTestProject1\bin\Debug\1stLinkedList.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\BBB-Prog260-Algo-DataStruct\Topic  4 - Linked Lists\1stLinkedListSol\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\BBB-Prog260-Algo-DataStruct\Topic  4 - Linked Lists\1stLinkedListSol\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\BBB-Prog260-Algo-DataStruct\Topic  4 - Linked Lists\1stLinkedListSol\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

@@ -1,0 +1,6 @@
+/Users/lilyayala/Source/Class-Assignments/AdvancedProgramming/LinkedListAssignment/1stLinkedList/bin/Release/1stLinkedList.exe.config
+/Users/lilyayala/Source/Class-Assignments/AdvancedProgramming/LinkedListAssignment/1stLinkedList/bin/Release/1stLinkedList.exe
+/Users/lilyayala/Source/Class-Assignments/AdvancedProgramming/LinkedListAssignment/1stLinkedList/bin/Release/1stLinkedList.pdb
+/Users/lilyayala/Source/Class-Assignments/AdvancedProgramming/LinkedListAssignment/1stLinkedList/obj/Release/1stLinkedList.csproj.CoreCompileInputs.cache
+/Users/lilyayala/Source/Class-Assignments/AdvancedProgramming/LinkedListAssignment/1stLinkedList/obj/Release/1stLinkedList.exe
+/Users/lilyayala/Source/Class-Assignments/AdvancedProgramming/LinkedListAssignment/1stLinkedList/obj/Release/1stLinkedList.pdb
