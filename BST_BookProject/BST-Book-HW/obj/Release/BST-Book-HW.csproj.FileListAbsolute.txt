@@ -1,0 +1,10 @@
+/Users/lilyayala/Source/Class-Assignments/BST_BookProject/BST-Book-HW/bin/Release/BST-Book-HW.exe.config
+/Users/lilyayala/Source/Class-Assignments/BST_BookProject/BST-Book-HW/bin/Release/BST-Book-HW.exe
+/Users/lilyayala/Source/Class-Assignments/BST_BookProject/BST-Book-HW/bin/Release/BST-Book-HW.pdb
+/Users/lilyayala/Source/Class-Assignments/BST_BookProject/BST-Book-HW/obj/Release/BST_Book_HW.Form1.resources
+/Users/lilyayala/Source/Class-Assignments/BST_BookProject/BST-Book-HW/obj/Release/BST_Book_HW.Properties.Resources.resources
+/Users/lilyayala/Source/Class-Assignments/BST_BookProject/BST-Book-HW/obj/Release/BST-Book-HW.csproj.GenerateResource.cache
+/Users/lilyayala/Source/Class-Assignments/BST_BookProject/BST-Book-HW/obj/Release/BST-Book-HW.csproj.CoreCompileInputs.cache
+/Users/lilyayala/Source/Class-Assignments/BST_BookProject/BST-Book-HW/obj/Release/BST-Book-HW.exe
+/Users/lilyayala/Source/Class-Assignments/BST_BookProject/BST-Book-HW/obj/Release/BST-Book-HW.pdb
+/Users/lilyayala/Source/Class-Assignments/BST_BookProject/BST-Book-HW/obj/Release/BST-Book-HW.csprojAssemblyReference.cache
